@@ -20,7 +20,7 @@ Enthusiastic about building **AI+X products** that help people envision and expe
 Interested in exploring how **AI Agents** can improve operational efficiency and enable smoother collaboration.
 
 
-### What I'm Building
+## What I'm Building
 
 I'm building hands-on projects to explore the intersection of **AI, business, and product development**.
 
